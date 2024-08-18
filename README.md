@@ -6,4 +6,4 @@ O programa deverá avaliar quais as dez principais palavras abordadas nesses tó
 
 A linguagem utilizada foi o .Net Core.
 
-#Este repo é basicamente para POC's e testes em geral. Se tiver interesse em ver meus projetos reais envie um e-mail para webmaster@asgi.com.br explicando o motivo do acesso.
+#Este repo é basicamente para POC's e testes em geral.
